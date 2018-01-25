@@ -1,0 +1,26 @@
+{
+  "name": "node-util",
+  "version": "1.0.0",
+  "description": "基于nodejs的一些脚本小工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reamd/node-util.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reamd/node-util/issues"
+  },
+  "homepage": "https://github.com/reamd/node-util#readme",
+  "dependencies": {
+    "node-cmd": "^3.0.0"
+  },
+  "devDependencies": {
+    "node-xlsx": "^0.11.2"
+  }
+}
